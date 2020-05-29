@@ -3,7 +3,7 @@ This project explicated the following areas of computer vision:
 - Markerless AR + 2D Homography (Using Homography and Masking images)
 
 Capabilities of the software came mainly from OpenCV Version 3 Library 
-We credit the following projects that contributed towards this project
+Credit to the following projects that really helped
 
 - Augmented Reality with OpenCV
 Demo: https://www.youtube.com/watch?v=tYIrvK0O06M
